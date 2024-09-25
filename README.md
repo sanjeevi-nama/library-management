@@ -2,7 +2,7 @@
 ## Classes:
 ### ->`Book`
 ### ->`Library`
-### ->`Membe`
+### ->`Member`
 ## Functions:
 ### ->borrow a book 
 ### ->return a book
